@@ -1,0 +1,135 @@
+{
+  "parent": "usefulblocks:usefulblocks",
+  "display": {
+    "icon": {
+      "item": "usefulblocks:exposed_copper_bricks"
+    },
+    "title": {
+      "translate": "advancements.usefulblocks.all_copper_blocks.title"
+    },
+    "description": {
+      "translate": "advancements.usefulblocks.all_copper_blocks.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "criteria": {
+    "all_copper_blocks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "usefulblocks:copper_bricks"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:exposed_copper_bricks"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:weathered_copper_bricks"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:oxidized_copper_bricks"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:copper_block"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:exposed_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:weathered_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:oxidized_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:exposed_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:weathered_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:oxidized_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_copper_block"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_exposed_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_weathered_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_oxidized_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_exposed_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_weathered_cut_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:waxed_oxidized_cut_copper"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "all_copper_blocks"
+    ]
+  ]
+}

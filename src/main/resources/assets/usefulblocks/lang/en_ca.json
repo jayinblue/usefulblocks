@@ -1,6 +1,17 @@
 {
   "itemGroup.usefulblocks.usefulblocks": "Useful Blocks Mod",
 
+  "advancements.usefulblocks.usefulblocks.title": "Useful Blocks",
+  "advancements.usefulblocks.usefulblocks.description": "It begins.",
+  "advancements.usefulblocks.all_oxidized.title": "Oxygen's Work",
+  "advancements.usefulblocks.all_oxidized.description": "Obtain all of the oxidized copper block variants, then regret all of your life choices",
+  "advancements.usefulblocks.bad_armour.title": "At Least It's Shiny",
+  "advancements.usefulblocks.bad_armour.description": "Craft yourself a shiny copper armour piece",
+  "advancements.usefulblocks.bad_tools.title": "When You Have No Other Use",
+  "advancements.usefulblocks.bad_tools.description": "Obtain a full set of copper tools",
+  "advancements.usefulblocks.all_copper_blocks.title": "Who Needs This Much Copper Variety?",
+  "advancements.usefulblocks.all_copper_blocks.description": "Why?",
+
   "item.usefulblocks.testing": "Item",
 
   "block.usefulblocks.copper_bricks": "Copper Bricks",

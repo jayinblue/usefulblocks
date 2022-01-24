@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "usefulblocks:copper_bricks"
+    },
+    "title": {
+      "translate": "advancements.usefulblocks.usefulblocks.title"
+    },
+    "description": {
+      "translate": "advancements.usefulblocks.usefulblocks.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "background": "usefulblocks:textures/block/oxidized_copper_bricks.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

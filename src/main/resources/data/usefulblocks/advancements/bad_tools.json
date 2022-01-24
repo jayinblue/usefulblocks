@@ -1,0 +1,57 @@
+{
+  "parent": "usefulblocks:usefulblocks",
+  "display": {
+    "icon": {
+      "item": "usefulblocks:copper_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.usefulblocks.bad_tools.title"
+    },
+    "description": {
+      "translate": "advancements.usefulblocks.bad_tools.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "bad_tools": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "usefulblocks:copper_sword"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:copper_axe"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:copper_pickaxe"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:copper_shovel"
+            ]
+          },
+          {
+            "items": [
+              "usefulblocks:copper_hoe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bad_tools"
+    ]
+  ]
+}
