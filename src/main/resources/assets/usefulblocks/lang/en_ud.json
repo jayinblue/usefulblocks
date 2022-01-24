@@ -6,18 +6,22 @@
   "block.usefulblocks.copper_bricks": "sʞɔᴉɹq ɹǝddoƆ",
   "block.usefulblocks.copper_brick_stairs": "sɹᴉɐʇS ʞɔᴉɹq ɹǝddoƆ",
   "block.usefulblocks.copper_brick_slab": "qɐlS ʞɔᴉɹq ɹǝddoƆ",
+  "block.usefulblocks.copper_brick_wall": "llɐM ʞɔᴉɹq ɹǝddoƆ",
 
   "block.usefulblocks.exposed_copper_bricks": "sʞɔᴉɹq ɹǝddoƆ pǝsodxƎ",
   "block.usefulblocks.exposed_copper_brick_stairs": "sɹᴉɐʇS ʞɔᴉɹq ɹǝddoƆ pǝsodxƎ",
   "block.usefulblocks.exposed_copper_brick_slab": "qɐlS ʞɔᴉɹq ɹǝddoƆ pǝsodxƎ",
+  "block.usefulblocks.exposed_copper_brick_wall": "llɐM ʞɔᴉɹq ɹǝddoƆ pǝsodxƎ",
 
   "block.usefulblocks.weathered_copper_bricks": "sʞɔᴉɹq ɹǝddoƆ pǝɹǝɥʇɐǝM",
   "block.usefulblocks.weathered_copper_brick_stairs": "sɹᴉɐʇS ʞɔᴉɹq ɹǝddoƆ pǝɹǝɥʇɐǝM",
   "block.usefulblocks.weathered_copper_brick_slab": "qɐlS ʞɔᴉɹq ɹǝddoƆ pǝɹǝɥʇɐǝM",
+  "block.usefulblocks.weathered_copper_brick_wall": "llɐM ʞɔᴉɹq ɹǝddoƆ pǝɹǝɥʇɐǝM",
 
   "block.usefulblocks.oxidized_copper_bricks": "sʞɔᴉɹq ɹǝddoƆ pǝsᴉpᴉxO",
   "block.usefulblocks.oxidized_copper_brick_stairs": "sɹᴉɐʇS ʞɔᴉɹq ɹǝddoƆ pǝzᴉpᴉxO",
   "block.usefulblocks.oxidized_copper_brick_slab": "qɐlS ʞɔᴉɹq ɹǝddoƆ pǝzᴉpᴉxO",
+  "block.usefulblocks.oxidized_copper_brick_wall": "llɐM ʞɔᴉɹq ɹǝddoƆ pǝzᴉpᴉxO",
 
-  "item.usefulblocks.copper_plate": "ǝʇɐlԀ ɹǝddoƆ",
+  "item.usefulblocks.copper_plate": "ǝʇɐlԀ ɹǝddoƆ"
 }

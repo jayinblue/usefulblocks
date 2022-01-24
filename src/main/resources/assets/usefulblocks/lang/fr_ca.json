@@ -6,18 +6,22 @@
   "block.usefulblocks.copper_bricks": "Briques de Cuivre",
   "block.usefulblocks.copper_brick_stairs": "Escaliers de Briques de Cuivre",
   "block.usefulblocks.copper_brick_slab": "Dalle de Briques de Cuivre",
+  "block.usefulblocks.copper_brick_wall": "Muret de Briques de Cuivre",
 
   "block.usefulblocks.exposed_copper_bricks": "Briques de Cuivre Exposé",
   "block.usefulblocks.exposed_copper_brick_stairs": "Escaliers de Briques de Cuivre Exposé",
   "block.usefulblocks.exposed_copper_brick_slab": "Dalle de Briques de Cuivre Exposé",
+  "block.usefulblocks.exposed_copper_brick_wall": "Muret de Briques de Cuivre",
 
   "block.usefulblocks.weathered_copper_bricks": "Briques de Cuivre Érodé",
   "block.usefulblocks.weathered_copper_brick_stairs": "Escaliers de Briques de Cuivre Érodé",
   "block.usefulblocks.weathered_copper_brick_slab": "Dalle de Briques de Cuivre Érodé",
+  "block.usefulblocks.weathered_copper_brick_wall": "Muret de Briques de Cuivre",
 
   "block.usefulblocks.oxidized_copper_bricks": "Briques de Cuivre Oxydé",
   "block.usefulblocks.oxidized_copper_brick_stairs": "Escaliers de Briques de Cuivre Oxydé",
   "block.usefulblocks.oxidized_copper_brick_slab": "Dalle de Briques de Cuivre Oxydé",
+  "block.usefulblocks.oxidized_copper_brick_wall": "Muret de Briques de Cuivre",
 
   "item.usefulblocks.copper_plate": "Plaque de Cuivre"
 }

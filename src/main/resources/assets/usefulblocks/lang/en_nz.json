@@ -6,18 +6,22 @@
   "block.usefulblocks.copper_bricks": "Copper Bricks",
   "block.usefulblocks.copper_brick_stairs": "Copper Brick Stairs",
   "block.usefulblocks.copper_brick_slab": "Copper Brick Slab",
+  "block.usefulblocks.copper_brick_wall": "Copper Brick Wall",
 
   "block.usefulblocks.exposed_copper_bricks": "Exposed Copper Bricks",
   "block.usefulblocks.exposed_copper_brick_stairs": "Exposed Copper Brick Stairs",
   "block.usefulblocks.exposed_copper_brick_slab": "Exposed Copper Brick Slab",
+  "block.usefulblocks.exposed_copper_brick_wall": "Exposed Copper Brick Wall",
 
   "block.usefulblocks.weathered_copper_bricks": "Weathered Copper Bricks",
   "block.usefulblocks.weathered_copper_brick_stairs": "Weathered Copper Brick Stairs",
   "block.usefulblocks.weathered_copper_brick_slab": "Weathered Copper Brick Slab",
+  "block.usefulblocks.weathered_copper_brick_wall": "Weathered Copper Brick Wall",
 
   "block.usefulblocks.oxidized_copper_bricks": "Oxidised Copper Bricks",
   "block.usefulblocks.oxidized_copper_brick_stairs": "Oxidised Copper Brick Stairs",
   "block.usefulblocks.oxidized_copper_brick_slab": "Oxidised Copper Brick Slab",
+  "block.usefulblocks.oxidized_copper_brick_wall": "Oxidised Copper Brick Wall",
 
   "item.usefulblocks.copper_plate": "Copper Plate"
 }
