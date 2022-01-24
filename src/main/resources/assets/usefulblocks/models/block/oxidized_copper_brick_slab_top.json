@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "usefulblocks:block/oxidized_copper_bricks",
+    "top": "usefulblocks:block/oxidized_copper_bricks",
+    "side": "usefulblocks:block/oxidized_copper_bricks"
+  }
+}

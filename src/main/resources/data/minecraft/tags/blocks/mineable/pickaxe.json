@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "usefulblocks:copper_bricks",
+    "usefulblocks:exposed_copper_bricks",
+    "usefulblocks:weathered_copper_bricks",
+    "usefulblocks:oxidized_copper_bricks",
+    "usefulblocks:copper_brick_stairs",
+    "usefulblocks:exposed_copper_brick_stairs",
+    "usefulblocks:weathered_copper_brick_stairs",
+    "usefulblocks:oxidized_copper_brick_stairs",
+    "usefulblocks:copper_brick_wall",
+    "usefulblocks:exposed_copper_brick_wall",
+    "usefulblocks:weathered_copper_brick_wall",
+    "usefulblocks:oxidized_copper_brick_wall",
+    "usefulblocks:copper_brick_slab",
+    "usefulblocks:exposed_copper_brick_slab",
+    "usefulblocks:weathered_copper_brick_slab",
+    "usefulblocks:oxidized_copper_brick_slab"
+  ]
+}

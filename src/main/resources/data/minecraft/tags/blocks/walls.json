@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "usefulblocks:copper_brick_wall",
+    "usefulblocks:exposed_copper_brick_wall",
+    "usefulblocks:weathered_copper_brick_wall",
+    "usefulblocks:oxidized_copper_brick_wall"
+  ]
+}

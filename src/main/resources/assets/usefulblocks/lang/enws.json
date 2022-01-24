@@ -1,0 +1,23 @@
+{
+  "itemGroup.usefulblocks.usefulblocks": "Useful Blocks Mod",
+
+  "item.usefulblocks.testing": "Item",
+
+  "block.usefulblocks.copper_bricks": "Bricks of Copp'r",
+  "block.usefulblocks.copper_brick_stairs": "Bricks of Copp'r Stairs",
+  "block.usefulblocks.copper_brick_slab": "Bricks of Copp'r Slab",
+
+  "block.usefulblocks.exposed_copper_bricks": "Expos'd Bricks of Copp'r",
+  "block.usefulblocks.exposed_copper_brick_stairs": "Expos'd Bricks of Copp'r Stairs",
+  "block.usefulblocks.exposed_copper_brick_slab": "Expos'd Bricks of Copp'r Slab",
+
+  "block.usefulblocks.weathered_copper_bricks": "Weather'd Bricks of Copp'r",
+  "block.usefulblocks.weathered_copper_brick_stairs": "Weather'd Bricks of Copp'r Stairs",
+  "block.usefulblocks.weathered_copper_brick_slab": "Weather'd Bricks of Copp'r Slab",
+
+  "block.usefulblocks.oxidized_copper_bricks": "Oxidis'd Bricks of Copp'r",
+  "block.usefulblocks.oxidized_copper_brick_stairs": "Oxidis'd Bricks of Copp'r Stairs",
+  "block.usefulblocks.oxidized_copper_brick_slab": "Oxidis'd Bricks of Copp'r Slab",
+
+  "item.usefulblocks.copper_plate": "Copp'r Plateth"
+}

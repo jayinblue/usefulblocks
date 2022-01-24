@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "usefulblocks:copper_bricks"
+  },
+  "result": "usefulblocks:copper_brick_stairs",
+  "count": 1
+
+}

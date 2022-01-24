@@ -1,0 +1,23 @@
+{
+  "itemGroup.usefulblocks.usefulblocks": "Useful Blocks Mod",
+
+  "item.usefulblocks.testing": "Item",
+
+  "block.usefulblocks.copper_bricks": "Copper Bricks",
+  "block.usefulblocks.copper_brick_stairs": "Copper Brick Stairs",
+  "block.usefulblocks.copper_brick_slab": "Copper Brick Slab",
+
+  "block.usefulblocks.exposed_copper_bricks": "Exposed Copper Bricks",
+  "block.usefulblocks.exposed_copper_brick_stairs": "Exposed Copper Brick Stairs",
+  "block.usefulblocks.exposed_copper_brick_slab": "Exposed Copper Brick Slab",
+
+  "block.usefulblocks.weathered_copper_bricks": "Weathered Copper Bricks",
+  "block.usefulblocks.weathered_copper_brick_stairs": "Weathered Copper Brick Stairs",
+  "block.usefulblocks.weathered_copper_brick_slab": "Weathered Copper Brick Slab",
+
+  "block.usefulblocks.oxidized_copper_bricks": "Oxidized Copper Bricks",
+  "block.usefulblocks.oxidized_copper_brick_stairs": "Oxidized Copper Brick Stairs",
+  "block.usefulblocks.oxidized_copper_brick_slab": "Oxidized Copper Brick Slab",
+
+  "item.usefulblocks.copper_plate": "Copper Plate"
+}

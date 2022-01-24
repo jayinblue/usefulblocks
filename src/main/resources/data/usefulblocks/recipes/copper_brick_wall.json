@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "usefulblocks:copper_bricks"
+    }
+  },
+  "result": {
+    "item": "usefulblocks:copper_brick_slab",
+    "count": 6
+  }
+}

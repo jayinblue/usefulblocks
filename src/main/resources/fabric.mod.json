@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "usefulblocks",
+  "version": "${version}",
+
+  "name": "UsefulBlocks",
+  "description": "a mod that makes useless blocks useful!",
+  "authors": [
+    "jayinblue (Bluejay!!)",
+    "OceanidDragon"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GNU GPL v3",
+  "icon": "assets/usefulblocks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.jayinblue.usefulblocks.UsefulBlocks"
+    ]
+  },
+  "mixins": [
+    "usefulblocks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

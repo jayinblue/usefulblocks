@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "usefulblocks:block/copper_brick_slab"
+    },
+    "type=double": {
+      "model": "usefulblocks:block/copper_bricks"
+    },
+    "type=top": {
+      "model": "usefulblocks:block/copper_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "usefulblocks:block/weathered_copper_bricks",
+    "top": "usefulblocks:block/weathered_copper_bricks",
+    "side": "usefulblocks:block/weathered_copper_bricks"
+  }
+}
