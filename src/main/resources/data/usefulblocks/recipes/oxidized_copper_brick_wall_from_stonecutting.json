@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "usefulblocks:oxidized_copper_bricks"
+  },
+  "result": "usefulblocks:oxidized_copper_brick_wall",
+  "count": 1
+
+}

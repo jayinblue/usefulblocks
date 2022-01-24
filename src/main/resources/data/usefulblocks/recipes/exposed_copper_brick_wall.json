@@ -7,11 +7,11 @@
   ],
   "key": {
     "C": {
-      "item": "usefulblocks:copper_bricks"
+      "item": "usefulblocks:exposed_copper_bricks"
     }
   },
   "result": {
-    "item": "usefulblocks:copper_brick_wall",
+    "item": "usefulblocks:exposed_copper_brick_wall",
     "count": 6
   }
 }
