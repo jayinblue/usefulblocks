@@ -1,6 +1,17 @@
 {
   "itemGroup.usefulblocks.usefulblocks": "Useful Blocks Mod",
 
+  "advancements.usefulblocks.usefulblocks.title": "Useful Blocks",
+  "advancements.usefulblocks.usefulblocks.description": "It begins.",
+  "advancements.usefulblocks.all_oxidized.title": "Oxygen's Work",
+  "advancements.usefulblocks.all_oxidized.description": "Obtain all of the oxidised copper block variants, then regret all of your life choices",
+  "advancements.usefulblocks.bad_armour.title": "At Least It's Shiny",
+  "advancements.usefulblocks.bad_armour.description": "Craft yourself a shiny copper armour piece",
+  "advancements.usefulblocks.bad_tools.title": "When You Have No Other Use",
+  "advancements.usefulblocks.bad_tools.description": "Obtain a full set of copper tools",
+  "advancements.usefulblocks.all_copper_blocks.title": "Who Needs This Much Copper Variety?",
+  "advancements.usefulblocks.all_copper_blocks.description": "Why?",
+
   "item.usefulblocks.testing": "Item",
 
   "block.usefulblocks.copper_bricks": "Copper Bricks",
@@ -23,5 +34,16 @@
   "block.usefulblocks.oxidized_copper_brick_slab": "Oxidised Copper Brick Slab",
   "block.usefulblocks.oxidized_copper_brick_wall": "Oxidised Copper Brick Wall",
 
-  "item.usefulblocks.copper_plate": "Copper Plate"
+  "item.usefulblocks.copper_plate": "Copper Plate",
+
+  "item.usefulblocks.copper_sword": "Copper Sword",
+  "item.usefulblocks.copper_axe": "Copper Axe",
+  "item.usefulblocks.copper_pickaxe": "Copper Pickaxe",
+  "item.usefulblocks.copper_shovel": "Copper Shovel",
+  "item.usefulblocks.copper_hoe": "Copper Hoe",
+
+  "item.usefulblocks.copper_helmet": "Copper Helmet",
+  "item.usefulblocks.copper_chestplate": "Copper Chestplate",
+  "item.usefulblocks.copper_leggings": "Copper Leggings",
+  "item.usefulblocks.copper_boots": "Copper Boots"
 }

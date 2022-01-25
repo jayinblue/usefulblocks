@@ -14,6 +14,6 @@ public class UsefulBlocks implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 
-		System.out.println("UsefulBlocks 1.18.1-1.0.1 is initializing! F*CK COPPER ALL MY HOMIES HATE COPPER");
+		System.out.println("UsefulBlocks 1.18.1-2.0.1 is initializing! F*CK COPPER ALL MY HOMIES HATE COPPER");
 	}
 }

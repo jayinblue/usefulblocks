@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "usefulblocks:copper_plates"
+    }
+  },
+  "result": {
+    "item": "usefulblocks:copper_boots",
+    "count": 1
+  }
+}

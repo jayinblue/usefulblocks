@@ -34,5 +34,17 @@
   "block.usefulblocks.oxidized_copper_brick_slab": "Oxidized Copper Brick Slab",
   "block.usefulblocks.oxidized_copper_brick_wall": "Oxidized Copper Brick Wall",
 
-  "item.usefulblocks.copper_plate": "Copper Plate"
+  "item.usefulblocks.copper_plate": "Copper Plate",
+
+  "item.usefulblocks.copper_sword": "Copper Sword",
+  "item.usefulblocks.copper_axe": "Copper Axe",
+  "item.usefulblocks.copper_pickaxe": "Copper Pickaxe",
+  "item.usefulblocks.copper_shovel": "Copper Shovel",
+  "item.usefulblocks.copper_hoe": "Copper Hoe",
+
+  "item.usefulblocks.copper_helmet": "Copper Helmet",
+  "item.usefulblocks.copper_chestplate": "Copper Chestplate",
+  "item.usefulblocks.copper_leggings": "Copper Leggings",
+  "item.usefulblocks.copper_boots": "Copper Boots"
+
 }

@@ -1,6 +1,17 @@
 {
   "itemGroup.usefulblocks.usefulblocks": "Blocs d'utile Mod",
 
+  "advancements.usefulblocks.usefulblocks.title": "Blocs d'utile",
+  "advancements.usefulblocks.usefulblocks.description": "Il commence.",
+  "advancements.usefulblocks.all_oxidized.title": "Projet d'oxygène",
+  "advancements.usefulblocks.all_oxidized.description": "Obtenir toutes les variantes du bloc de cuivre oxydé, puis regrette votre choix de vie",
+  "advancements.usefulblocks.bad_armour.title": "C'est brillant, au moins",
+  "advancements.usefulblocks.bad_armour.description": "Réalisez-toi une brillante pièce d'armure cuivre",
+  "advancements.usefulblocks.bad_tools.title": "Quand tu n'as pas un autre utilité",
+  "advancements.usefulblocks.bad_tools.description": "Obtenir un ensemble complet des outils cuivre",
+  "advancements.usefulblocks.all_copper_blocks.title": "Qui a besoin autant variété de cuivre?",
+  "advancements.usefulblocks.all_copper_blocks.description": "Pourquoi?",
+
   "item.usefulblocks.testing": "Objet",
 
   "block.usefulblocks.copper_bricks": "Briques de Cuivre",
@@ -23,5 +34,16 @@
   "block.usefulblocks.oxidized_copper_brick_slab": "Dalle de Briques de Cuivre Oxydé",
   "block.usefulblocks.oxidized_copper_brick_wall": "Muret de Briques de Cuivre",
 
-  "item.usefulblocks.copper_plate": "Plaque de Cuivre"
+  "item.usefulblocks.copper_plate": "Plaque de Cuivre",
+
+  "item.usefulblocks.copper_sword": "Épée en Cuivre",
+  "item.usefulblocks.copper_axe": "Hache en Cuivre",
+  "item.usefulblocks.copper_pickaxe": "Pioche en Cuivre",
+  "item.usefulblocks.copper_shovel": "Pelle en Cuivre",
+  "item.usefulblocks.copper_hoe": "Houe en Cuivre",
+
+  "item.usefulblocks.copper_helmet": "Casque en Cuivre",
+  "item.usefulblocks.copper_chestplate": "Plastron en Cuivre",
+  "item.usefulblocks.copper_leggings": "Jambières en Cuivre",
+  "item.usefulblocks.copper_boots": "Bottes en Cuivre"
 }
